@@ -56,6 +56,6 @@ class Cart
 	//end of main method
 }
 
-//end of class Cart
+//end class Cart
 	
 	
